@@ -1,0 +1,26 @@
+
+viking.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hh
+  rotate: false
+  xy: 1, 73
+  size: 335, 32
+  orig: 335, 32
+  offset: 0, 0
+  index: -1
+VikingMovimento1
+  rotate: false
+  xy: 1, 1
+  size: 210, 70
+  orig: 210, 70
+  offset: 0, 0
+  index: -1
+vikingPulo1
+  rotate: false
+  xy: 213, 1
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
